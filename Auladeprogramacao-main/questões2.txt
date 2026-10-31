@@ -39,4 +39,4 @@ Projeto: Sistema Academico
 
 19. Qual e a responsabilidade da classe SistemaAcademico em relacao as outras classes?
 
-20. Como os conceitos de classe, objeto, heranca, encapsulamento e associacao aparecem no projeto?
+20. 
